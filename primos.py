@@ -7,7 +7,7 @@ app = Flask(__name__)
 @app.route('/')
 def nao_entre_em_panico():
 
-    limite = 100
+    limite = 200
 
     c = 1
     p = 1
