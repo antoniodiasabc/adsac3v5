@@ -1,0 +1,3 @@
+na prova serao 10 questoes objetivas
+teremos github, devops, integracao continua, maquinas virtuais,
+heroku, docker, manifesto agil, computacao em nuvem, entrega continua'
